@@ -1,0 +1,42 @@
+
+body{
+
+	background-color: #CCE6D5;
+	margin: 70px;
+		LIS
+}
+h1{
+	text-align:center;
+	color: #bb0000;
+	font-family: 'Algerian';
+}
+
+p{
+	text-align: justify;
+	font-size: 15px;
+	font-family: 'Arial Black';
+	
+
+}
+
+figure {
+	
+	text-align: center;
+}
+
+img{
+	width: 350px;
+	height: 400px;
+	border-radius: 15px;
+}
+
+.pie{
+	background-color: #bb0000;
+	text-align: center;
+	color: #ccc;
+	font-size: 15px;
+	font-family: 'Gill Sans Nova Ultra Bold';	
+	margin: 15px;
+	max-width: 100%;
+}
+	

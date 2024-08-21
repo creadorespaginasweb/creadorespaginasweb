@@ -1,0 +1,71 @@
+body {
+	background-color: #CCE6D5;
+}
+
+header h1{
+	text-align:center;
+	color: #D40A0A;
+	font-family: 'Algerian';
+	}
+
+  header button a  {
+ 	display: inline-block;
+ 	color: purple;
+ 	text-decoration: none;
+ 	padding: 20px;
+ 	font-size: 20px;
+ 	text-decoration: none;
+ }
+
+ header button :hover {
+ 	background-color: #FFFF00;
+ }
+
+ .nombres p {
+ 	font-size: 25px;
+ 	color: #black;
+ 	text-align:center ;
+ 	padding: 20px;
+ 	font-family: 'Arial Black';
+ }
+
+
+
+ .nombres ul li{
+ 	text-align: center;
+ 	margin: 30px auto;
+ 	list-style: none;
+ }
+
+h5 {
+ 	text-align: center;
+ 	padding-top: 50px;
+ 	margin: 100px ;
+ 	font-size: 35px;
+ 	font-family: 'algerian';
+ 	color: #084c4e;
+ }
+
+ figure {
+ 	list-style: none;
+ 	margin: 0;
+ 	position: relative;
+ 	display: inline-flex;
+ 	padding-top: 10px;
+ } 
+
+figure:hover  {
+	background: #FFFF00;
+	
+	
+}
+
+.pie{
+	background-color: #bb0000;
+	text-align: center;
+	color: #ccc;
+	font-size: 20px;
+	font-family: 'Gill Sans Nova Ultra Bold';
+	margin: 15px;
+	max-width: 100%;
+}
